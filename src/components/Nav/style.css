@@ -1,0 +1,21 @@
+
+.active {
+    color: #fd79a8;
+}
+
+.menu {
+    width: 200px;
+    cursor: pointer;
+    transition: 0.4s;
+    text-decoration: none;
+    text-align: left;
+    padding: 5px 0 5px 20px;
+    line-height: 30px;
+    text-transform: capitalize;
+    
+}
+
+.menu:hover {
+   background-color: #a29bfe;
+  
+}
